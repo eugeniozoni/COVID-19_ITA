@@ -1,7 +1,6 @@
 ---
 title: "COVID-19  - Italy"
 author:
-  email: eugeniozoni@gmail.com
   name: Eugenio Zoni
 date: "`r format(Sys.time(), '%Y %B, %d')`"
 output:
