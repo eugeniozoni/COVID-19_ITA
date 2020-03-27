@@ -399,7 +399,7 @@ And also in this case it is a good thing to see that the R number is decreasing.
 
 ## Session Information
 
-Information related to the session can be retrieved here.
+The information related to the session can be retrieved here.
 ```{r}
 sessionInfo()
 ```
