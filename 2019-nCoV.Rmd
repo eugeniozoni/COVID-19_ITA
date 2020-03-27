@@ -319,7 +319,7 @@ apply(pred_cum_total_after, 1, mean)
 
 ## Effective reproduction number
 
-Also for the importance and significance of estimating the effective reproduction number we follow the approach proposed by Tim Chrurches and described here: https://timchurches.github.io/blog/posts/2020-02-18-analysing-covid-19-2019-ncov-outbreak-data-with-r-part-1/ 
+For the importance and significance of estimating the effective reproduction number we follow the approach proposed by Tim Chrurches and described here: https://timchurches.github.io/blog/posts/2020-02-18-analysing-covid-19-2019-ncov-outbreak-data-with-r-part-1/ 
 This is important to track the effectiveness of decision of the government on future steps. 
 ```{r , warning=FALSE, message=FALSE}
 plot_Ri <- function(estimate_R_obj) {
@@ -399,7 +399,7 @@ And also in this case it is a good thing to see that the R number is decreasing.
 
 ## Session Information
 
-Information related to the session can be retrieved here.
+The information related to the session can be retrieved here.
 ```{r}
 sessionInfo()
 ```
